@@ -10,3 +10,5 @@ MNIST_data/
 image/
 .floydexpt
 .floydignore
+run1/
+*.mp4
