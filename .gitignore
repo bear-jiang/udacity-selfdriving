@@ -12,3 +12,7 @@ image/
 .floydignore
 run1/
 *.mp4
+!project_video.mp4
+!challenge_video.mp4
+!harder_challenge_video.mp4
+output_images/
