@@ -16,3 +16,6 @@ run1/
 !challenge_video.mp4
 !harder_challenge_video.mp4
 output_images/
+output_video/
+non-vehicles/
+vehicles/
